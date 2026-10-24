@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**PEDROHB-SS/PEDROHB-SS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Pedro Henrique 👋
 
-Here are some ideas to get you started:
+### Systems Development Student | Aspiring Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Systems Development student interested in programming and web development.
+
+I'm currently learning, improving my skills, and working towards building useful projects through practice.
+
+### About Me
+
+- 🎓 Studying Systems Development
+- 🌐 Interested in web development
+- 📚 Always learning and exploring new technologies
+- 🎯 Working towards becoming a software developer
+
+### Goals
+
+My goal is to keep improving as a developer, build meaningful projects, and gain experience in the tech industry.
+
+### Projects
+
+I'm working on developing my skills and building projects that reflect my progress in programming.
+
+---
+
+*Learning, building, and improving one step at a time.*
